@@ -1,0 +1,5 @@
+feast==0.64.0
+pandas
+pyarrow
+scikit-learn
+numpy
