@@ -1,0 +1,2 @@
+Sample ID: 25
+Predicted Skill Gap: Medium

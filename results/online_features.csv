@@ -1,0 +1,2 @@
+sample_id,event_timestamp,created_timestamp,alignment_score,student_score,industry_score,missing_skills,training_hours,gap_level_encoded
+25,2025-01-01 00:00:25+00:00,2025-01-01 00:00:26+00:00,6.0,0.0,7.0,3,12.0,2
